@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <style name="anti_theft_t9_key">
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+    
+    
+    <item name="android:clickable">true</item>
+    <item name="android:gravity">center</item>
+    <item name="android:scaleType">centerInside</item>
+    <item name="android:background">@drawable/icon</item>
+    <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+</style>
+</resources>
